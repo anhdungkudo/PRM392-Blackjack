@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="dealer_label">Dealer</string>
+    <string name="player_label">Player</string>
+    <string name="score_placeholder">Score: %d</string>
+    <string name="hit_button">Hit</string>
+    <string name="stand_button">Stand</string>
+    <string name="play_again_button">Play Again</string>
+    <string name="game_status">Game Status</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="card_width">100dp</dimen>
+    <dimen name="card_height">150dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="card_padding_horizontal">5sp</dimen>
+    <dimen name="card_layout_margin">5sp</dimen>
+
+</resources>
